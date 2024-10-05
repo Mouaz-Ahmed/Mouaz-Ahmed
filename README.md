@@ -1,24 +1,22 @@
 ![mouaz-banner](https://github.com/user-attachments/assets/2e80e8e7-5dc4-4b5c-a123-93b39c7025ab)
-<h1 align="center">Hi 👋, I'm Mouaz Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mouaz-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mouaz-ahmed" /> 
-</p>
+
+<h3 align="left">Hi 👋, I'm Mouaz Ahmed</h3>
+<h5 align="left">Front-End Developer</h5>
+<hr>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-<!--     <img src="https://github-profile-trophy.vercel.app/?username=mouaz-ahmed" alt="mouaz-ahmed" /> -->
-  </a> 
-</p>
+<h3 align="left">About Me</h3>
+<p>I am a passionate FRONT-END Developer with a strong interest in building beautiful and interactive dynamic web applications. I love exploring new technologies and finding creative solutions to complex problems.</p>
 
 - 🔭 I’m currently working on **food web**
 - 🌱 I’m currently learning **React and Redux**
-- 💬 Ask me about **React, Redux, ES6**
+- 🎬 I also have experience in **video editing**
+- 🗄️ I have some knowledge of **SQL**
 - 📫 How to reach me: **mouazahmed321@gmail.com**
-- ⚡ Fun fact: **I think I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
   <a href="https://linkedin.com/in/mouaz-ahmed-665149223" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouaz-ahmed-665149223" height="30" width="40" />
@@ -29,6 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<hr>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -65,14 +64,20 @@
   </a>
 </p>
 
-<p>
-  <img width="150" height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouaz-ahmed&show_icons=true&locale=en&layout=compact" alt="mouaz-ahmed" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mouaz-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mouaz-ahmed" /> 
 </p>
 
-<p>&nbsp;
-  <img width="150" height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=mouaz-ahmed&show_icons=true&locale=en" alt="mouaz-ahmed" />
+<h3 align="left">GitHub Stats:</h3>
+<hr>
+<p align="left">
+  <img width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouaz-ahmed&show_icons=true&locale=en&layout=compact" alt="mouaz-ahmed" />
 </p>
 
-<p>
-  <img width="150" height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouaz-ahmed&" alt="mouaz-ahmed" />
+<p align="left">
+  <img width="300" height="150" src="https://github-readme-stats.vercel.app/api?username=mouaz-ahmed&show_icons=true&locale=en" alt="mouaz-ahmed" />
+</p>
+
+<p align="left">
+  <img width="300" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mouaz-ahmed&" alt="mouaz-ahmed" />
 </p>
