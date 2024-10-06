@@ -6,6 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">About Me</h3>
+<hr>
 <p>I am a passionate FRONT-END Developer with a strong interest in building beautiful and interactive dynamic web applications. I love exploring new technologies and finding creative solutions to complex problems.</p>
 
 - 🔭 I’m currently working on **food web**
