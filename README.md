@@ -1,7 +1,7 @@
 ![mouaz-banner](https://github.com/user-attachments/assets/2e80e8e7-5dc4-4b5c-a123-93b39c7025ab)
 
-<h3 align="left">Hi 👋, I'm Mouaz Ahmed</h3>
-<h5 align="left">Front-End Developer</h5>
+<h2 align="left">Hey 👋, I'm Mouaz Ahmed</h2>
+<h4 align="left">Front-End Developer</h4>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
