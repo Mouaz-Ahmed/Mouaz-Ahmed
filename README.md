@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning **React and Redux**
 - 🎬 I also have experience in **video editing**
 - 🗄️ I have some knowledge of **SQL**
+- 🗄️ I have also beginner level knowledge of C,java 
 - 📫 How to reach me: **mouazahmed321@gmail.com**
 
 
