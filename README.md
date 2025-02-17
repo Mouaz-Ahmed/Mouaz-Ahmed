@@ -1,7 +1,7 @@
 ![mouaz-banner](https://github.com/user-attachments/assets/2e80e8e7-5dc4-4b5c-a123-93b39c7025ab)
 
 <h2 align="left">Hello 👋, I'm Mouaz Ahmed</h2>
-<h4 align="left">React Front-End Developer</h4>
+<h4 align="left">The React Front-End Developer</h4>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
