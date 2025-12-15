@@ -59,7 +59,7 @@ I enjoy turning UI designs into real products using React and modern front-end t
 <hr/>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mouaz-ahmed&show_icons=true&theme=default" width="420"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mouaz-ahmed&show_icons=true&theme=default" width="420"/> -->
 </p>
 
 <p>
