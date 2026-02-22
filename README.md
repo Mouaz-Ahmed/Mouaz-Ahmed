@@ -14,8 +14,8 @@ I am a passionate <strong>Front-End Developer</strong> focused on building moder
 I enjoy turning UI designs into real products using React and modern front-end tools.
 </p>
 
-- 🔭 Currently working on **Food Web Application**
-- 🌱 Learning **React, Redux & advanced front-end concepts**
+
+- 🌱 Learning **React, Redux , Next Js, Typescript & advanced front-end concepts**
 - 🎬 Experience in **Video Editing**
 - 🗄️ Completed academic & practice projects in **SQL**
 - 💻 Basic knowledge of **C & Java**
