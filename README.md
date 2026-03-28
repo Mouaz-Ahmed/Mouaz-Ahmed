@@ -45,21 +45,7 @@ I focus on **performance, clean UI, and seamless user experience** while continu
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouaz-ahmed&show_icons=true&theme=dark" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaz-ahmed&layout=compact&theme=dark" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouaz-ahmed&theme=dark" width="420"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mouaz-ahmed&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mouaz-ahmed&show_icons=true&theme=dark&hide_border=false" width="420"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaz-ahmed&layout=compact&theme=dark&hide_border=false" width="420"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=mouaz-ahmed&theme=dark" width="420"/> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=mouaz-ahmed&label=Profile%20Views&color=0e75b6&style=flat" width="420"/> </p>
 
 ---
 
