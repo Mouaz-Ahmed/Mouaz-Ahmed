@@ -1,3 +1,4 @@
+<img src="https://github.com/user-attachments/assets/2e80e8e7-5dc4-4b5c-a123-93b39c7025ab" />
 <h2 align="center">Hi 👋, I'm Mouaz Ahmed</h2>
 <h4 align="center">Junior Frontend Developer | Next.js & TypeScript</h4>
 
