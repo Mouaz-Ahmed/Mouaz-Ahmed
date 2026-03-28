@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/2e80e8e7-5dc4-4b5c-a123-93b39c7025ab" />
 
 <h2 align="left">Hi 👋, I'm Mouaz Ahmed</h2>
-<h4 align="left">React Front-End Developer</h4>
+<h4 align="left">Front-End Developer</h4>
 
 <hr/>
 
@@ -10,15 +10,15 @@
 <h3>👨‍💻 About Me</h3>
 
 <p>
-I am a passionate <strong>Front-End Developer</strong> focused on building modern, responsive, and interactive web applications.  
-I enjoy turning UI designs into real products using React and modern front-end tools.
+I am a passionate <strong>Junior Frontend Developer</strong> based in Karachi, Pakistan, specializing in building modern, responsive, and user-friendly web applications.  
+I enjoy turning UI/UX designs into real, scalable products using <strong>React, Next.js, and TypeScript</strong>.
 </p>
 
-
-- 🌱 Learning **React, Redux , Next Js, Typescript & advanced front-end concepts**
-- 🎬 Experience in **Video Editing**
-- 🗄️ Completed academic & practice projects in **SQL**
-- 💻 Basic knowledge of **C & Java**
+- 🌱 Currently learning **React, Redux, Next.js, TypeScript, and advanced frontend concepts**  
+- 💻 Hands-on experience with **web applications** and contribution to a **mobile app project (Zong)**  
+- 🗄️ Completed academic and practice projects in **SQL**  
+- 🎬 Experience in **video editing and multimedia projects**  
+- 💻 Familiar with **C and Java basics**  
 - 📫 Reach me at: **mouazahmed321@gmail.com**
 
 ---
