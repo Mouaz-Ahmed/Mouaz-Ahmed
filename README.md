@@ -9,17 +9,16 @@
 
 <h3>👨‍💻 About Me</h3>
 
-<p>
-I am a passionate <strong>Junior Frontend Developer</strong> based in Karachi, Pakistan, specializing in building modern, responsive, and user-friendly web applications.  
-I enjoy turning UI/UX designs into real, scalable products using <strong>React, Next.js, and TypeScript</strong>.
-</p>
+I am a <strong>Junior Frontend Developer</strong> based in Karachi, Pakistan, specializing in building modern, responsive, and user-friendly web applications.  
+I turn UI/UX designs into real, scalable products using **React, Next.js, and TypeScript**.
 
-- 🌱 Currently learning **React, Redux, Next.js, TypeScript, and advanced frontend concepts**  
-- 💻 Hands-on experience with **web applications** and contribution to a **mobile app project (Zong)**  
-- 🗄️ Completed academic and practice projects in **SQL**  
-- 🎬 Experience in **video editing and multimedia projects**  
-- 💻 Familiar with **C and Java basics**  
-- 📫 Reach me at: **mouazahmed321@gmail.com**
+**Currently learning & working on:**  
+- 🌱 React, Redux, Next.js, TypeScript, and advanced frontend concepts  
+- 💻 Web applications and contribution to a mobile app project (Zong)  
+- 🗄️ Academic & practice projects in SQL  
+- 💻 C and Java basics  
+
+📫 Reach me at: **mouazahmed321@gmail.com**
 
 ---
 
