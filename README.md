@@ -1,13 +1,13 @@
-<img src="https://github.com/user-attachments/assets/2e80e8e7-5dc4-4b5c-a123-93b39c7025ab" />
-
 <h2 align="left">Hi 👋, I'm Mouaz Ahmed</h2>
-<h4 align="left">Front-End Developer</h4>
+<h4 align="left">Junior Frontend Developer | Next.js & TypeScript</h4>
 
 <hr/>
 
+<div align="left">
+
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<h3>👨‍💻 About Me</h3>
+### 👨‍💻 About Me
 
 I am a <strong>Junior Frontend Developer</strong> based in Karachi, Pakistan, specializing in building modern, responsive, and user-friendly web applications.  
 I turn UI/UX designs into real, scalable products using **React, Next.js, and TypeScript**.
@@ -20,10 +20,11 @@ I turn UI/UX designs into real, scalable products using **React, Next.js, and Ty
 
 📫 Reach me at: **mouazahmed321@gmail.com**
 
+</div>
+
 ---
 
-<h3>🤝 Connect with Me</h3>
-<hr/>
+### 🤝 Connect with Me
 
 <p>
   <a href="https://linkedin.com/in/mouaz-ahmed-665149223" target="_blank">
@@ -36,8 +37,7 @@ I turn UI/UX designs into real, scalable products using **React, Next.js, and Ty
 
 ---
 
-<h3>🛠️ Languages & Tools</h3>
-<hr/>
+### 🛠️ Languages & Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
@@ -54,21 +54,20 @@ I turn UI/UX designs into real, scalable products using **React, Next.js, and Ty
 
 ---
 
-<h3>📊 GitHub Statistics</h3>
-<hr/>
+### 📊 GitHub Statistics
 
-<p>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mouaz-ahmed&show_icons=true&theme=default" width="420"/> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mouaz-ahmed&show_icons=true&theme=dark" width="420"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaz-ahmed&layout=compact" width="420"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaz-ahmed&layout=compact&theme=dark" width="420"/>
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouaz-ahmed" width="420"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouaz-ahmed&theme=dark" width="420"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mouaz-ahmed&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
