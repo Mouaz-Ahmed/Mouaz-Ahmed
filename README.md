@@ -39,7 +39,6 @@ I focus on **performance, clean UI, and seamless user experience** while continu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/restapi/restapi-icon.svg" width="40"/>
 </p>
 
 ---
