@@ -44,10 +44,7 @@ Currently working in a professional environment, collaborating with teams and co
 
 ### 📌 Featured Work
 
-
-
-
-- 🔗 Project Name — Mouaz resume maker   
+- 🔗 Project Name — Mouaz resume maker :  http://mouazresumemaker.netlify.app/
 
 ---
 
