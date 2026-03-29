@@ -43,11 +43,7 @@ Currently working in a professional environment, collaborating with teams and co
 ---
 
 ### 📌 Featured Work
-
-> (Add your best 2–3 projects here — very important)
-
-- 🔗 Project Name — Short description  
-- 🔗 Project Name — Short description  
+- 🔗 Project Name — Mouaz resume maker   
 
 ---
 
