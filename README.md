@@ -37,7 +37,7 @@ Currently working in a professional environment, collaborating with teams and co
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,sass,git,mysql,firebase,figma,gitlab" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,sass,git,firebase,figma,gitlab" />
 </p>
 
 ---
