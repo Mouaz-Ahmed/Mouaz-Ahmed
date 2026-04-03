@@ -75,7 +75,3 @@ I’m a frontend developer specializing in **Next.js** and **TypeScript**, focus
 </p>
 
 ---
-
-## ⚡ Fun Fact
-
-I don’t just write code — I build experiences that users actually enjoy.
