@@ -54,7 +54,7 @@ I’m a frontend developer specializing in **Next.js** and **TypeScript**, focus
 
 - Built a dynamic resume generator with a clean UI  
 - Focused on performance and usability  
-- Real-world use case for job seekers  
+- Real-world use case and opportunity for job seekers  
 
 ---
 
