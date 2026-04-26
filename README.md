@@ -6,7 +6,6 @@
 <p align="center">
   I build fast, scalable, and user-focused web applications with clean architecture and high performance.
 </p>
----
 
 ## 👨‍💻 About Me
 
