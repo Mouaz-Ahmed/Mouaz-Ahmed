@@ -22,7 +22,7 @@ I’m a frontend developer specializing in **Next.js** and **TypeScript**, focus
 
 ## 💼 Experience
 
-**Software Engineer — TechWisely Ltd (Remote)**  
+**Software Engineer — TechWisely Ltd **  
  *Oct 2025 – Present*
 
 -  Developed and optimized modern web applications using **Next.js & TypeScript**  
