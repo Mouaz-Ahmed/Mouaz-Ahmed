@@ -11,10 +11,10 @@
 
 I’m a frontend developer specializing in **Next.js** and **TypeScript**, focused on building scalable and high-performance applications.
 
-- ⚡ Strong focus on performance optimization  
-- 🧠 Clean, maintainable, and scalable code practices  
-- 🎯 UI/UX that solves real user problems  
-- 🤝 Experience working in professional, team-based environments  
+-  Strong focus on performance optimization  
+-  Clean, maintainable, and scalable code practices  
+-  UI/UX that solves real user problems  
+-  Experience working in professional, team-based environments  
 
 > I enjoy turning complex ideas into simple, intuitive user experiences.
 
@@ -23,13 +23,13 @@ I’m a frontend developer specializing in **Next.js** and **TypeScript**, focus
 ## 💼 Experience
 
 **Software Engineer — TechWisely Ltd (Remote)**  
-📅 *Oct 2025 – Present*
+ *Oct 2025 – Present*
 
-- 🚀 Developed and optimized modern web applications using **Next.js & TypeScript**  
-- 🧩 Built reusable and scalable frontend components  
-- 🎨 Improved UI/UX for better user engagement  
-- 🤝 Collaborated with cross-functional teams to deliver features efficiently  
-- 🐞 Debugged and enhanced existing systems for better performance  
+-  Developed and optimized modern web applications using **Next.js & TypeScript**  
+-  Built reusable and scalable frontend components  
+-  Improved UI/UX for better user engagement  
+-  Collaborated with cross-functional teams to deliver features efficiently  
+-  Debugged and enhanced existing systems for better performance  
 
 ---
 
@@ -45,7 +45,7 @@ I’m a frontend developer specializing in **Next.js** and **TypeScript**, focus
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 ### 📝 Resume Builder
 🔗 http://mouazresumemaker.netlify.app/
