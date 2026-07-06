@@ -18,7 +18,7 @@ I’m a frontend developer specializing in **Next.js** and **TypeScript**, focus
 
 > I enjoy turning complex ideas into simple, intuitive user experiences..
 
----
+
 
 ## 💼 Experience
 
@@ -31,7 +31,7 @@ I’m a frontend developer specializing in **Next.js** and **TypeScript**, focus
 -  Collaborated with cross-functional teams to deliver features efficiently  
 -  Debugged and enhanced existing systems for better performance  
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -43,7 +43,7 @@ I’m a frontend developer specializing in **Next.js** and **TypeScript**, focus
   <img src="https://skillicons.dev/icons?i=git,gitlab,firebase,figma" />
 </p>
 
----
+
 
 ##  Featured Projects
 
@@ -54,7 +54,7 @@ I’m a frontend developer specializing in **Next.js** and **TypeScript**, focus
 - Focused on performance and usability  
 - Real-world use case and opportunity for job seekers  
 
----
+
 
 ## 📊 GitHub Activity
 
@@ -62,7 +62,7 @@ I’m a frontend developer specializing in **Next.js** and **TypeScript**, focus
   <img src="https://streak-stats.demolab.com?user=mouaz-ahmed&theme=dark&hide_border=true" />
 </p>
 
----
+
 
 ## 🤝 Connect With Me
 
@@ -72,4 +72,4 @@ I’m a frontend developer specializing in **Next.js** and **TypeScript**, focus
   </a>
 </p>
 
----
+
