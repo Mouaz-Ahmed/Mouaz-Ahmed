@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/2e80e8e7-5dc4-4b5c-a123-93b39c7025ab" />
 
 <h1 align="center">Mouaz Ahmed</h1>
-<h3 align="center">Frontend Developer | Next.js • TypeScript</h3>
+<h3 align="center">Frontend Developer | Next.js • TypeScript.</h3>
 
 <p align="center">
   I build fast, scalable, and user-focused web applications with clean architecture and high performance.
