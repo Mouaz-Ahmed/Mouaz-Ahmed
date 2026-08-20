@@ -16,7 +16,7 @@ I’m a frontend developer specializing in **Next.js** and **TypeScript**, focus
 -  UI/UX that solves real user problems  
 -  Experience working in professional, team-based environments  
 
-> I enjoy turning complex ideas into simple, intuitive user experiences..
+> I enjoy turning complex ideas into simple, intuitive user experiences...
 
 
 ## 💼 Experience
