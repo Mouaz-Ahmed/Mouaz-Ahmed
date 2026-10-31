@@ -18,6 +18,7 @@ I’m a frontend developer specializing in **Next.js** and **TypeScript**, focus
 -  Experience working in professional, team-based environments  
 
 > I enjoy turning complex ideas into simple, intuitive user experiences
+> 
 
 
 ## 💼 Experience
